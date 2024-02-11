@@ -13,4 +13,4 @@
 
 ---
 
-![concept](./concept.png)
+![concept](./diagram.png)
